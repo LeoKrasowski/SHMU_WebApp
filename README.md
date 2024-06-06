@@ -20,9 +20,13 @@ Databázová Tabuľka
 
 Tabuľka: post
 nazov (VARCHAR 255): Názov publikácie
+
 datum (DATE): Dátum publikácie
+
 type (VARCHAR 255): Typ publikácie
+
 zamestanec (VARCHAR 255): Meno zamestnanca
+
 popis (TEXT): Popis publikácie
 
 Postup Vývoja
